@@ -1,0 +1,14 @@
+
+public class Stacks{
+
+    public static void main(String[] args){
+        Stack<Integer> stack = new Stack<Integer>()
+        stack.add(10);
+        stack.add(120);
+        stack.add(23)
+
+
+
+
+    }
+}
